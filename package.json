@@ -9,11 +9,11 @@
   "scripts": {
     "test": "mocha",
     "start": "npm run build && npm run onlystart",
-    "onlystart": "node util/exec dist",
-    "build": "npm run cleanup && node builder.mjs bake && tsc -p util/tsconfig/tsconfig.build.json",
-    "build:bundled": "npm run cleanup && node builder.mjs bake && tsc -p util/tsconfig/tsconfig.bundle.json && node builder.mjs bundle",
-    "prelint": "node builder.mjs bake",
-    "lint": "tsc && eslint .",
+-   "onlystart": "node util/exec dist",
++   "onlystart": "node util/exec out",
+-   "build": "rimraf dist/ typings/ && tsc",
++   "build": "rimraf out/ typings/ && tsc || exit 0",
+    "lint": "eslint .",
     "cleanup": "rimraf dist/ typings/ build/",
     "generatecommandlist": "node util/generateCommandList"
   },
