@@ -12,9 +12,10 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true,
-    "importHelpers": true,
-    "outDir": "dist/",
-    "allowJs": false,
+      "importHelpers": true,
+-     "outDir": "dist/",
++     "outDir": "out/",
+      "allowJs": false,
     "skipLibCheck": true,
     "resolveJsonModule": true,
     "noEmit": true
