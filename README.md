@@ -5,5 +5,5 @@ discordbot "茜-あかね-" 開発者　多数鯖運営
 ## 🏆️トロフィー
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoikozu)](https://github.com/ryo-ma/github-profile-trophy)
 ## 私のプロジェクト
-<a href="https://aoikozu.github.io/akane/" target=window>茜</a>
+### <a href="https://aoikozu.github.io/akane/" target=window>茜-あかね-</a>
 最近公開されたばかりの多機能BOT
