@@ -1,4 +1,4 @@
-## 葵 | aoi
+[## 葵 | aoi
 discordbot "茜-あかね-" 開発者　多数鯖運営
 ## 🖥️使用言語
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoikozu)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,3 +21,4 @@ discordbot "茜-あかね-" 開発者　多数鯖運営
     <img height="20" src="https://img.shields.io/github/followers/aoikozu?label=follow&logo=github&style=flat" />
   </a>
 </p>
+](https://aoikozu.github.io/index)
