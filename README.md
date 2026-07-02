@@ -3,7 +3,7 @@
 **Amber-Blossom** 開発者 · 多数鯖運営  
 茜-あかね- / 心春-こはる- の開発・運営
 
-[![Twitter](https://img.shields.io/twitter/follow/aoi_tyandesu?label=Twitter&logo=twitter&style=flat&color=1d9bf0)](http://twitter.com/aoi_tyandesu)
+[![Twitter](https://img.shields.io/twitter/follow/aoi_kenzoku?label=Twitter&logo=twitter&style=flat&color=1d9bf0)](http://twitter.com/aoi_tyandesu)
 [![GitHub](https://img.shields.io/github/followers/aoikozu?label=follow&logo=github&style=flat&color=7b6cff)](https://github.com/aoikozu)
 [![Profile Views](https://komarev.com/ghpvc/?username=aoikozu&color=6cffda&style=flat)](https://github.com/aoikozu)
 
